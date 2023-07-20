@@ -1,0 +1,43 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20220716223744
+Username: VIJAY_HOME\vijay
+RunAs User: VIJAY_HOME\vijay
+Configuration Name: 
+Machine: VIJAY_HOME (Microsoft Windows NT 10.0.22000.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 2416
+PSVersion: 5.1.22000.653
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.22000.653
+BuildVersion: 10.0.22000.653
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\automation\logs\notepad++_install.log
+Software not installed. Proceeding with installation
+
+
+    Directory: C:\automation
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----                                            installers
+VERBOSE: GET with 0-byte payload
+VERBOSE: received 4518024-byte response of content type application/octet-stream
+Installing software: notepad
+
+Id      : 31444
+Handles : 16
+CPU     : 0.015625
+SI      : 1
+Name    : notepad++
+
+Software is installed successfully
+**********************
+Windows PowerShell transcript end
+End time: 20220716223754
+**********************
